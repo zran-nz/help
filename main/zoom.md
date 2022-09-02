@@ -19,16 +19,25 @@ You can either go to the library to buy a Task/PD content
 
 ![image](https://user-images.githubusercontent.com/1272280/188069390-1a5a73fa-24c0-45bf-917c-00ed95f18e07.png)
 ![image](https://user-images.githubusercontent.com/1272280/188069434-d15c7e99-e67d-4e87-8701-1342eb4a8f6a.png)
+
 Or on the landing page of “My content”, create a new task or a PD content.
+
 ![image](https://user-images.githubusercontent.com/1272280/188069488-896031b7-fae9-4fcb-9d72-8aae315f0bcc.png)
+
 You will need to fill up all the compulsory fields(Marked in red) before scheduling the session, on the step of Edit slides, you will need to click Edit google slides, grand the authorization then come back to Classcipe after the Google slides has been generated
+
 ![image](https://user-images.githubusercontent.com/1272280/188069564-8682f4cc-c8b3-4757-b8f2-ae99ccda1739.png)
+
 After creating google slides and completing all the compulsory fields, on My content page, you will see the “Schedule” button for task type content and the “Workshop” button for PD content type. Click either of them.
 
 ![image](https://user-images.githubusercontent.com/1272280/188069633-1b0ecf52-c038-4343-920c-bea4d5312c91.png)
+
 It will direct you to the scheduling page where you choose a class then click next
+
 ![image](https://user-images.githubusercontent.com/1272280/188069693-979a1589-583b-4d06-9297-be334d0c76b7.png)
+
 Here, switch on the zoom option(Passcode and waiting room settings are also optional) then choose a time on the calendar
+
 ![image](https://user-images.githubusercontent.com/1272280/188069751-e6ac85f2-8480-4697-80e3-9d88fe0fedf6.png)
 
 After successfully launching a Session or Workshop with a Zoom meeting scheduled, you should be able to find it on the class page or under the “launched by me” on Live workshop page, where you will also see the zoom icon under the title
@@ -40,7 +49,9 @@ Click the Zoom icon, It will direct you to launch the zoom meeting. As the parti
 ![image](https://user-images.githubusercontent.com/1272280/188069841-162737b2-62d0-440a-b12e-db67b23e01ea.png)
 
 ![image](https://user-images.githubusercontent.com/1272280/188069861-b7052d6f-6925-4a11-a546-f69b58e0d41b.png)
+
 Share the link or code with your students so that they can join the session, or students will find the “enter the session” button on their student portal. As they join, they will be added to your Zoom waiting room, and you will need to approve them before they join the Zoom.
+
 ![image](https://user-images.githubusercontent.com/1272280/188069909-8b8ac3f9-eb15-4d3a-836c-3607af8f993e.png)
 
 Once the student is in a Classcipe session, if they disconnect from the Zoom meeting, they’ll be able to rejoin the Zoom meeting by clicking on the zoom icon on top the screen of the Classcipe student screen-view. You may need to approve them from the waiting room again.
@@ -57,6 +68,7 @@ Uninstallation:
 Disconnection:
  
 If you do not want to schedule a zoom meeting anymore or you would like to schedule a zoom meeting from another zoom account. simply go to your account setting page where you can disconnect the zoom account, and the system will ask you to authorize another zoom account next time when you schedule a session
+
 ![image](https://user-images.githubusercontent.com/1272280/188070037-1f23f581-e8e8-4748-b4ef-e6d612a966dd.png)
 
 #### FAQ:
