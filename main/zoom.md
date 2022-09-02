@@ -73,16 +73,16 @@ If you do not want to schedule a zoom meeting anymore or you would like to sched
 
 #### FAQ:
 - Do teachers need a Zoom account to use this feature?
-- As a teacher, yes, you need a Zoom account to use this feature
+  - As a teacher, yes, you need a Zoom account to use this feature
 - Can I use the Zoom app if I have a free Zoom account? 
-- Yes. Any limitations currently in place for free Zoom accounts will apply to your Zoom meetings linked to Classcipe (for example, your Zoom meeting may last up to 40 minutes)
+  - Yes. Any limitations currently in place for free Zoom accounts will apply to your Zoom meetings linked to Classcipe (for example, your Zoom meeting may last up to 40 minutes)
 - Do students need a Zoom account?
-- Students do not need a Zoom account
+  - Students do not need a Zoom account
 - If students don’t need Zoom accounts, what name will show up when they join Zoom? 
-- The same name that appears on the Classcipe session 
+  - The same name that appears on the Classcipe session 
 - What devices can I use Classcipe Live session + Zoom with?
-- Classcipe + Zoom is supported on computers, and we recommend using the Chrome browser.
+  - Classcipe + Zoom is supported on computers, and we recommend using the Chrome browser.
 - What are the security features of Classcipe + Zoom sessions?
-- Teachers can enable passcode and waiting room options- which means students will be required to enter passcode (5-digit Classcipe session code)
+  - Teachers can enable passcode and waiting room options- which means students will be required to enter passcode (5-digit Classcipe session code)
 - Teachers will be able to approve students as they join the Zoom meeting.
-- The link to the Zoom meeting is not visible until a student joins the Classcipe Zoom meeting
+  - The link to the Zoom meeting is not visible until a student joins the Classcipe Zoom meeting
