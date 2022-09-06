@@ -1,4 +1,4 @@
 
 * Help
-  * [Started](main/started.md)
-  * [Lesson](main/lesson.md)
+  * [Support](main/support.md)
+  * [Guide](main/guide.md)
