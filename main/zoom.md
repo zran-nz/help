@@ -87,10 +87,3 @@ If you do not want to schedule a zoom meeting anymore or you would like to sched
 - Teachers will be able to approve students as they join the Zoom meeting.
   - The link to the Zoom meeting is not visible until a student joins the Classcipe Zoom meeting
 
-# Creating Unit Plan, Tasks, Video and PD content
-## How to buy content from Classcipe library
-# Teaching with interactive slides
-# Publishing teaching resources
-# Launching workshops
-# Setting your account
-Managing your school
