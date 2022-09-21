@@ -37,3 +37,4 @@ Classcipe template pool allows teachers to easily add pre-made activities into a
 ## How to add students to my school?
 ## How to set curriculum(s) for my school?
 ## How to manage users as a School Admin?
+## How to manage my school classes?
