@@ -50,8 +50,9 @@
 
 # Managing your school
 ## Who can manage school account?
+### The users appointed as school admin can manage full school account settings, whereas the subject coordinators can manage, the homeroom teachers can manage. Please notice that the changes made on the school account will affect all the teachers under this school, include but not limited to school classes, school students, school curriculums, school years, school Unit plan&task formats, school academic term and teaching blocks data.
 ## How to add teachers to my school?
 ## How to add students to my school?
 ## How to set curriculum(s) for my school?
-## How to manage users as a School Admin?
+### Click curriculum and choose one or more curriculums for your school, for each curriculum, you can set the name for each year and choose the subjects that your school teach under that curriculum. If you opt for IB curriculums, you will need to complete the authorization before accessing to IB curriculum data. You will be notified when your school authorization has been approved.
 ## How to manage my school classes?
