@@ -8,10 +8,11 @@
 ## How to create assessments for my task?
 ### Go to the assessment tool step, where you can create one of those types of tables, or insert an existing table for assessment. You can click the attribute cell of the table to add new, delete or edit the name of the column. After inserting the column name, you can always save them as a set of options for future use. You might insert the pre-selected learning objectives, tags or 21st century skills as criterias or type in your criterias. Once you create an assessment sheet for the task, teacher-review will be available after you schedule a session, and you will also have an option to enable student-review or peer-review functions.
 ## How to creat a new Unit plan?
-### Click create Unit plan and fill in the content under each step of your Unit plan format. 
+### Click create Unit plan and fill in the content under each step of your Unit plan format, for the big idea section, you can browse the existing big ideas under each subjects and pick one of them, if the selected big idea has already linked with some key questions, those key questions will be automatically inserted into your key questions section, where you can make further changes. Under the linked task step, you might choose from library, my content or school resource center if you are under school account to find relevant tasks, find the relevant one to the current Unit plan and drag it to the left. If you would like to categorize your tasks under this Unit plan, click add categories, we have prepared task types and inquiry stages for you to choose as category name, of course you can always create your own category and save it for future use.
 ## How to create a new Task?
-## How to create a new Video?
+### Click creat Task and fill in the content under each step of your Task format, for the key question section, if your task has already linked with a Unit plan which has key questions inserted, you will see those key questions under the dropdown list for you to choose, of course you can always type in new key question if you dont like the recommended ones. Under the Edit Google Slides step, you can choose templates or existing task to add to your current slides, on the left slide preview window, you can switch between the draft view or check your selected resources. Click Edit Google Slides to edit your PPT with Classcipe add-on functions there. 
 ## How to create a new PD content?
+### Click create PD content and fill in the content under each step of the default PD content format. The PD content is pretty similar to Task but with less sections to complete. The tag categories for PD content are uniquely designed for different types of professional development purposes. The tags here will help other educators easy find your content, as well as live workshops launched with this content.
 
 # Teaching with interactive slides
 ## How to add slides from Classcipe template pool?
@@ -31,7 +32,8 @@
 ### There are mandatory sections to complete for both Unit plan and Task, you wont be able to publish the content with unfilled mandatory sections. You will see the red sign marked on the step or section required to be filled in.
 ## How to set price and discount?
 ### When you publish a content, you can set a price for the item. Disable the price switch means that you would like to publish it as a free resource to download. A price comes with setting a discount for a certain period of time. The discount will expire after the period ends and the price will back to normal.
-## How do I manage my listed items and purchases?
+## How do I manage my listed items?
+### Under the published page, you will find all the content that you have published, as well the views and sales data of each content. You can also manage the published content by setting its price, discount, changing its status to unpublished. 
 
 # Launching workshops
 ## How to launch a workshop?
@@ -41,6 +43,7 @@
 
 # Setting your account
 ## What is the difference between my personal profile and school account profile?
+### The settings under your personal profile 
 ## Why I can not add class?
 ## Why I need to set curriculum first?
 ## Classcipe + Zoom Integration
