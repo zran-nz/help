@@ -33,7 +33,8 @@ On the workshop page, you will see all the featured workshops recommended for yo
 Calendar allows you to check your availability and manage your sessions and workshops in a time-wise way.
 
 You can also browse through Classcipe library to buy resources and edit them into the content for your students.
-Check the video here 
+Check the video here https://drive.google.com/file/d/1El1xZSq1tSgL0_9YVrDa8jRbRizE9SPe/view?usp=sharing
+
 # Creating Unit Plan, Tasks, Video and PD content
 ## How to buy content from Classcipe library?
 If you are under personal account, Go to library and find the content you are interested in, you might filter the content by age, subject, and other conditions. Click buy, after successfully purchase the content, it will appear on your my content page, with a name "Copy of the original content" from the library.
