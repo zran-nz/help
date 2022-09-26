@@ -1,3 +1,39 @@
+# Overall Classcipe introduction to new users
+The first-time log into Classcipe, you are under your personal account. Go to your account setting, where
+You can choose curriculum and rename the grades.
+Choose the subjects that you are teaching.
+
+For planning format
+We offer uses to customize both Unit plan format and task format
+There are also embedded templates to choose from.
+
+You can create Unit plans, tasks, PD contents or videos.
+When editing a Unit plan, you can simply choose the grades and subjects, then the learning objectives will be shown for you to select.
+We also offer an easy way to add knowledge tag or command term, as well as bloom taxonomy levels and knowledge dimensions, so that your content can be recommended to other educators or students to meet their specific needs.
+
+It is easy to publish your content to the library, with a set price or even a customized discount. now you can find the item on your published list.
+
+Now let’s open a task, it’s the most common type of content for teachers to create.
+You can customize all those sections under each step.
+The tag box here is for you to add tags to your content so that you and other people can easily categorize or search for the content, we have a Classcipe tagging pool to choose from.
+oh, and don’t forget the key questions, the dropdown list shows all the key questions from linked Units, so you can simply pick one or two.
+
+Same function here for learning objectives which we already covered in Unit plan.
+
+Now we are on the step of creating assessment tools. We offer 3 types of tables here. Take rubric as an example. You can simply insert the objectives you already chose from previous step here, edit the name of option, as well as saving a set of options for future use.
+
+Now it’s time to make slides. Classcipe offers a range of template which you filter out or you can buy and insert some content from library. Click edit google slides, you will be redirected to Google slides page, where you can open Classcipe add-on, which allows you to insert all different types of interactive questions to engage students. Click save&go to classcipe, it will take you back.
+
+Last step, you can link the unit by simply drag and pull. Upon completing, you will be offered a chance to quick create sub-task out of the original one.
+Once you have created your slides, the task is ready to be scheduled as a session for the class you choose. you have the option to launch a zoom meeting together with session. Just simply pick the time and click, your session will be shown on the class page, where you can enter the student-pace or teacher-paced classroom.
+
+For PD content, you can launch a workshop to public and require payment, as well as setting a maximum no and registration deadline.
+On the workshop page, you will see all the featured workshops recommended for you to attend and the workshops you launched, as well as managing the ones that you registered.
+
+Calendar allows you to check your availability and manage your sessions and workshops in a time-wise way.
+
+You can also browse through Classcipe library to buy resources and edit them into the content for your students.
+Check the video here 
 # Creating Unit Plan, Tasks, Video and PD content
 ## How to buy content from Classcipe library?
 If you are under personal account, Go to library and find the content you are interested in, you might filter the content by age, subject, and other conditions. Click buy, after successfully purchase the content, it will appear on your my content page, with a name "Copy of the original content" from the library.
@@ -26,6 +62,13 @@ On the class page, you will find all the sessions you scheduled for each class c
 ## How to add material in the session?
 ## How to provide instant feedback to students?
 Within any session, when a student responds to the interactive question, the teacher will see the responses instantly and simply enter the feedback and send, the student will see the instant feedback or comment from their side.
+## How can students join the session?
+As a student, you will receive the link or the code of the session from your teacher. You can either use the link or enter the code on the official page of Classcipe to join the session.
+While entering the session, student will see the prompt window asking them to join the zoom meeting. If they drop off the meeting during the class, they can rejoin the meeting by clicking the zoom icon on the top.
+
+Students can answer interactive questions in the session, including multiple choices, text, drawing and etc. The teacher will be able to see the instant response and leave real-time comments to the students.
+Check the video here https://drive.google.com/file/d/1MJM9nmX088jh7NMyrr6FlWZupdbwr5u_/view?usp=sharing 
+
 
 # Publishing teaching resources
 ## Why I can not publish my content?
@@ -53,8 +96,7 @@ The featured workshop list displays all the up-coming workshops. Teachers can pr
 Check video here https://drive.google.com/file/d/1IDMhYhKFhnigQDEfYUz28uxTOHvFHTU7/view?usp=sharing
 
 # Setting your account
-## What is the difference between my personal profile and school account profile?
-The settings under your personal profile 
+
 ## Why I can not add class?
 If you are under your personal account, make sure you have subscribed the advanced or premium plan before adding personal classes. The basic plan does not allow you to add more personal class.
 If you are under your school account, only school admin is allowed to add and edit classes. Teachers will automatically see the classes that they are assigned to by the admin.
