@@ -48,11 +48,12 @@ Go to the assessment tool step, where you can create from one of those templates
 Click create Unit plan and fill in the content under each step of your Unit plan format, for the big idea section, you can browse the existing big ideas under each subjects and pick one of them, if the selected big idea has already linked with some key questions, those key questions will be automatically inserted into your key questions section, where you can make further changes. Under the linked task step, you might choose from library, my content or school resource center if you are under school account to find relevant tasks, find the relevant one to the current Unit plan and drag it to the left. If you would like to categorize your tasks under this Unit plan, click add categories, we have prepared task types and inquiry stages for you to choose as category name, of course you can always create your own category and save it for future use.
 ## How to create a new Task?
 Click creat Task and fill in the content under each step of your Task format, for the key question section, if your task has already linked with a Unit plan which has key questions inserted, you will see those key questions under the dropdown list for you to choose, of course you can always type in new key question if you dont like the recommended ones. Under the Edit Google Slides step, you can choose templates or existing task to add to your current slides, on the left slide preview window, you can switch between the draft view or check your selected resources. Click Edit Google Slides to edit your PPT with Classcipe add-on functions there. 
-## How to create a new PD content?
+
+## How to create a new PD content? (新的)
 Click create PD content and fill in the content under each step of the default PD content format. The PD content is pretty similar to Task but with less sections to complete. The tag categories for PD content are uniquely designed for different types of professional development purposes. The tags here will help other educators easy find your content, as well as live workshops launched with this content.
 
-## How do I accept invitation to collaborate on PD sessions? (新的）
-The contents of the most needed PD topics are already created on Classcipe and our partner global trainers are invited to collaborate on certain topic-related content. Upon receiving the invitation email, simply click the link within the email to register and log into Classcipe and accept the invitation.
+## How do I accept invitation to collaborate on PD sessions? (优先）
+The contents of the most needed PD topics are already created on Classcipe and our partner global trainers are invited to collaborate on certain topic-related content. Upon receiving the invitation email, simply click the link within the email to register and log into Classcipe, where you can accept the invitation.
 
 ## How do I invite others to collaborate?
 If you are the teacher who wants to collaborate with others, simply click the 
