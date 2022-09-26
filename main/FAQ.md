@@ -51,11 +51,17 @@ Click creat Task and fill in the content under each step of your Task format, fo
 ## How to create a new PD content?
 Click create PD content and fill in the content under each step of the default PD content format. The PD content is pretty similar to Task but with less sections to complete. The tag categories for PD content are uniquely designed for different types of professional development purposes. The tags here will help other educators easy find your content, as well as live workshops launched with this content.
 
+## How do I accept invitation to collaborate on PD sessions? (新的）
+The contents of the most needed PD topics are already created on Classcipe and our partner global trainers are invited to collaborate on certain topic-related content. Upon receiving the invitation email, simply click the link within the email to register and log into Classcipe and accept the invitation.
+
+## How do I invite others to collaborate?
+If you are the teacher who wants to collaborate with others, simply click the 
+
 # Teaching with interactive slides
 ## How to add slides from Classcipe template pool?
 Classcipe template pool allows teachers to easily add pre-made activities into a Classcipe task. Currently we offer 200+ pre-made activities to use for any K-12 subject or customize as needed. On the step of Edit Google Slides, you will see the template pool entrance on the right, where you can filter the template by subjects, learning purposes, 21st century skills, teaching strategies or differentiate instructions. Simply click insert, you will see the template being added to the selected resources on the left. There, you can delete the selected ones or add more. All the templates added will show up on the add-on bar when you create the PPT in Google slides.
 ## How to schedule a session using a task?
-For any task linked with a google slides, you can schedule it as a session. Simply click schedule on my content list and choose the class, select the students then pick a time and date, your session will appear on the class page after completing.
+For any task linked with a google slides, you can schedule it as a session. Simply click schedule on my content list and choose your class, select the students. Here you will need to authorize your zoom account on your first time using Classcipe, then the zoom meeting will be automatically generated with the scheduled session in your future use. Then pick a time and date, your session will appear on the class page after completing.
 ## How to create interactive content in Google Slides?
 You can either click edit Google slides from the task page or simply open any content in Google slides, Click add-on on the menu bar, find the Classcipe add-on, you will need to install the add-on from google add-on market if it is your first time using Classcipe add-on. After installing and click Classcipe add-on, the Classcipe Interactive Bar will appear on the right, where you can add interactive questions, set learning objectives for each question, insert the pre-selected templates and content, or check the template pool, library, or my content to insert new slides.
 ## How to start/enter a session?
@@ -80,7 +86,7 @@ When you publish a content, you can set a price for the item. Disable the price 
 Under the published page, you will find all the content that you have published, as well the views and sales data of each content. You can also manage the published content by setting its price, discount, changing its status to unpublished. 
 
 # Launching workshops
-## How to launch a workshop?
+## How to launch a workshop?(Yinan)
 To launch a workshop, teachers will need to create PD content first. By filling in the required fields and creating Google slides for their professional development content, now it’s ready to be scheduled as a workshop. Click the button on the content list, you will be redirected to workshop scheduling page, where teachers can choose to launch free or paid workshop. Maxim participants number, date and time are basic setting for all workshops, whereas paid workshop option allows you to set a price and discount details.
 You will be asked to authorize your zoom account at the first time then a zoom meeting will be automatically created together with your scheduled workshop for the future use.
 While setting the time, you can either choose the period, or select the time or simply drag the bar.
@@ -92,7 +98,7 @@ Check video here https://drive.google.com/file/d/1PdLq_xt7rzEhyV8HLI8QN94NR4KBqd
 ## Can I launch a public workshop under school account?
 You can not, the public workshop function is only available under your personal account. Any workshop launched under school account will only be available to your school community, which includes your school teachers and students.
 
-## How can I register for a workshop?
+## How can I register for a workshop?(Yinan)
 The featured workshop list displays all the up-coming workshops. Teachers can preview them, share via different channels and register the one that they are interested. After registration, the workshop will appear under the list of “Registered” where participants can share it to others or cancel the registration. By clicking “enter workshop” button, you will be directed to the live workshop where you can join the zoom meeting by authorizing your zoom account, if the workshop has not begun yet, the prompt window will show updated count-down time until it starts.
 Check video here https://drive.google.com/file/d/1IDMhYhKFhnigQDEfYUz28uxTOHvFHTU7/view?usp=sharing
 
@@ -108,8 +114,13 @@ Only after setting the years/grades for your selected curriculums, you will be a
 Check the video here https://drive.google.com/file/d/1JiDnQXgHp1NQHroD2ALs5c-4pSEcMR3-/view?usp=sharing 
 
 # Managing your school
+
+## How can my school join Classcipe?
+
 ## Who can manage school account?
 The users appointed as school admin can manage full school account settings, whereas the subject coordinators can manage, the homeroom teachers can manage. Please notice that the changes made on the school account will affect all the teachers under this school, include but not limited to school classes, school students, school curriculums, school years, school Unit plan&task formats, school academic term and teaching blocks data.
+
+## How to set and manage school roles?
 
 ## How to add teachers to my school?
 As the school admin, there are several ways to add new teachers. First, you can invite teachers by sharing a link to them. There are 2 options while generating the invitation link, anyone with the link can join the school community or anyone who joins via the link will need admin’s approval to appear on the teacher list, the second one requires admin to check out the pending list, where they can approve or reject a teacher’s application.
