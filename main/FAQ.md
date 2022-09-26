@@ -52,6 +52,11 @@
 ## Who can manage school account?
 ### The users appointed as school admin can manage full school account settings, whereas the subject coordinators can manage, the homeroom teachers can manage. Please notice that the changes made on the school account will affect all the teachers under this school, include but not limited to school classes, school students, school curriculums, school years, school Unit plan&task formats, school academic term and teaching blocks data.
 ## How to add teachers to my school?
+### As the school admin, there are several ways to add new teachers. First, you can invite teachers by sharing a link to them. There are 2 options while generating the invitation link, anyone with the link can join the school community or anyone who joins via the link will need admin’s approval to appear on the teacher list, the second one requires admin to check out the pending list, where they can approve or reject a teacher’s application.
+You can also add individual teacher by providing their details on this prompt window. Or bulk import teachers by downloading the template, filling in the excel sheet with your teachers’ info then upload it to Classcipe.
+Once the teacher has logined into Classcipe successfully, their status will change to active, otherwise it stays inactive until their first log-in.
+You can always edit or archive a teacher.
+
 ## How to add students to my school?
 ## How to set curriculum(s) for my school?
 ### Click curriculum and choose one or more curriculums for your school, for each curriculum, you can set the name for each year and choose the subjects that your school teach under that curriculum. If you opt for IB curriculums, you will need to complete the authorization before accessing to IB curriculum data. You will be notified when your school authorization has been approved.
