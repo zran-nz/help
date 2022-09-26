@@ -1,6 +1,6 @@
 ### Policy
 
-#### Privacy Polic
+#### Privacy Policy
 For the purposes of this privacy policy, reference to “we”, “our” and “us” means reference to Zstar Education Ltd (trading as Classcipe), and the Classcipe applications (which is our software platform for housing and managing your information). Reference to “you” and “your” means reference to you, as a user.
 
 We take your privacy seriously. This policy relates only to the personal information you provide to us when taking part in research activities. This policy should be read in conjunction with our Terms and Conditions.
