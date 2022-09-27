@@ -49,11 +49,14 @@ Click create Unit plan and fill in the content under each step of your Unit plan
 ## How to create a new Task?
 Click creat Task and fill in the content under each step of your Task format, for the key question section, if your task has already linked with a Unit plan which has key questions inserted, you will see those key questions under the dropdown list for you to choose, of course you can always type in new key question if you dont like the recommended ones. Under the Edit Google Slides step, you can choose templates or existing task to add to your current slides, on the left slide preview window, you can switch between the draft view or check your selected resources. Click Edit Google Slides to edit your PPT with Classcipe add-on functions there. 
 
-## How to create a new PD content? (新的)
+## How to create a new PD content?
 Click create PD content and fill in the content under each step of the default PD content format. The PD content is pretty similar to Task but with less sections to complete. The tag categories for PD content are uniquely designed for different types of professional development purposes. The tags here will help other educators easy find your content, as well as live workshops launched with this content.
 
-## How do I accept invitation to collaborate on PD sessions? (优先）
+## How do I accept invitation to collaborate on PD sessions?
 The contents of the most needed PD topics are already created on Classcipe and our partner global trainers are invited to collaborate on certain topic-related content. Upon receiving the invitation email, simply click the link within the email to register and log into Classcipe, where you can accept the invitation.
+When someone invited you to collaborate, you will receive the notification on the top menu bar. Click the message, you will be directed to the content page for collaborating, there the changes you made will be automatically saved and synaced to other collaborators in no time.
+Check the video here https://drive.google.com/file/d/10mCPQGrxOqgcCBYu-q_kwWhVOfNEiem_/view?usp=sharing
+
 
 ## How do I invite others to collaborate?
 If you are the teacher who wants to collaborate with others, simply click the 
@@ -87,21 +90,34 @@ When you publish a content, you can set a price for the item. Disable the price 
 Under the published page, you will find all the content that you have published, as well the views and sales data of each content. You can also manage the published content by setting its price, discount, changing its status to unpublished. 
 
 # Launching workshops
-## How to launch a workshop?(Yinan)
-To launch a workshop, teachers will need to create PD content first. By filling in the required fields and creating Google slides for their professional development content, now it’s ready to be scheduled as a workshop. Click the button on the content list, you will be redirected to workshop scheduling page, where teachers can choose to launch free or paid workshop. Maxim participants number, date and time are basic setting for all workshops, whereas paid workshop option allows you to set a price and discount details.
+## How to launch a workshop from scratch?
+To launch a workshop, teacher will need to create PD content first. By filling in the required fields and creating Google slides for their professional development content, now it’s ready to be scheduled as a workshop. Click the button on the content list, you will be redirected to workshop scheduling page, where teachers can choose to launch free or paid workshop. Maxim participants number, date and time are basic setting for all workshops, whereas paid workshop option allows you to set a price and discount details.
 You will be asked to authorize your zoom account at the first time then a zoom meeting will be automatically created together with your scheduled workshop for the future use.
 While setting the time, you can either choose the period, or select the time or simply drag the bar.
 After assigning the workshop, you will see it on your live workshop page where you can edit, delete or share via different channels. If the workshop has been launched under your school account, then only your school teachers will see it under their featured workshop list.
 When the scheduled time comes, simply enter the session by clicking the button on the cover image, and join the zoom meeting via the zoom icon where you will be welcoming the registered participants to show up.
 Check video here https://drive.google.com/file/d/1PdLq_xt7rzEhyV8HLI8QN94NR4KBqdII/view?usp=sharing
 
+## How to launch a workshop with existing content? 
+Find a PD content on your list, simply click workshop. On the scheduling page, you have the option to run paid or free workshops. You can also set the basics such as the pricing, discount details, max no of participants and etc. Authorize your Zoom account by a few simple clicks, your Zoom meeting will be automatically generated aligned with the workshop you launched. As long as the authorization is valid, your zoom meeting will always be scheduled together with your workshop when you switch the zoom on. Choose a data and time, your workshop is ready to go.
+After launching the workshop, it will appear under your "launched by me"list, where you can view, edit or delete it anytime.
+Check the video here https://drive.google.com/file/d/1jQET3h3N-RmasqxTUHITg79wormtklcL/view?usp=sharing
+
 
 ## Can I launch a public workshop under school account?
 You can not, the public workshop function is only available under your personal account. Any workshop launched under school account will only be available to your school community, which includes your school teachers and students.
 
-## How can I register for a workshop?(Yinan)
+## How can I register for a workshop?
 The featured workshop list displays all the up-coming workshops. Teachers can preview them, share via different channels and register the one that they are interested. After registration, the workshop will appear under the list of “Registered” where participants can share it to others or cancel the registration. By clicking “enter workshop” button, you will be directed to the live workshop where you can join the zoom meeting by authorizing your zoom account, if the workshop has not begun yet, the prompt window will show updated count-down time until it starts.
 Check video here https://drive.google.com/file/d/1IDMhYhKFhnigQDEfYUz28uxTOHvFHTU7/view?usp=sharing
+
+## How to quickly register a workshop?
+Go to the featured workshop list, if the workshop you are looking for was launched under your school account, make sure you switch to your school account first. Find the workshop that you are interested in, click register before the registration deadline. The workshop will appear under your registered list where can cancel your registration anytime.
+Check the video here https://drive.google.com/file/d/1ko6lNdJyMWh8kkqO9RoUxV4dinSbw9Kn/view?usp=sharing
+
+Go to the featured workshop list, if the workshop you are looking for was launched under your school account, make sure you switch to your school account first. Find the workshop that you are interested in, click register before the registration deadline. The workshop will appear under your registered list where can cancel your registration anytime.
+
+To enter a workshop, simply click "enter workshop" on its cover image, the"join zoom meeting" bottom on the welcoming window will help you launch the zoom app on your desktop. If the workshop has not started yet, you will see the counting down page instead of the interactive content.
 
 # Setting your account
 
@@ -116,7 +132,15 @@ Check the video here https://drive.google.com/file/d/1JiDnQXgHp1NQHroD2ALs5c-4pS
 
 # Managing your school
 
+
+## How do teachers join a school?
+If you are invited to join a school community, an email from Classcipe will notify you to accept the invitation. Simply click the link within the email, it will direct you to the Classcipe main page, where by taking a few steps, your registration will be completed and you will find the invitation under your notification bar. open the message and click "Join" to become part of the school community. You can freely switch between your personal account and school account.
+Check the video here https://drive.google.com/file/d/1KLEsd4PXCiB7WFVbeByYeomjqmRXhMvS/view?usp=sharing
+
+
 ## How can my school join Classcipe?
+Simply send out quotation on the Classcipe Main page and our team will contact you ASAP to tailor your school plan.
+Check the video here https://drive.google.com/file/d/1VWXvmyOgT5KDSzlpu1BGy4-NQcWYasln/view?usp=sharing
 
 ## Who can manage school account?
 The users appointed as school admin can manage full school account settings, whereas the subject coordinators can manage, the homeroom teachers can manage. Please notice that the changes made on the school account will affect all the teachers under this school, include but not limited to school classes, school students, school curriculums, school years, school Unit plan&task formats, school academic term and teaching blocks data.
