@@ -21,8 +21,9 @@ Then choose a time&date on the calendar and Click "Finish"
 
 
 After launching a Session, you should be able to find it on the class page, where you will also see the Zoom icon under the title
+<img width="1421" alt="launch zoom bottom" src="https://user-images.githubusercontent.com/105265752/192947440-db5d4e4a-d797-4ca4-8925-d3d426c26079.png">
 
-![image](https://user-images.githubusercontent.com/1272280/188069799-fcc96fa0-d417-4c48-ab16-9c387e055b2a.png)
+
 
 Click the Zoom icon, It will direct you to launch the zoom meeting. As the participants join, they will be added to your Zoom waiting room, and you will need to approve them before they join the Zoom. 
 
