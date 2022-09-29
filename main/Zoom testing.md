@@ -17,7 +17,6 @@ Choose the Google account to authorize Zoom.
 After successfully authorized Zoom,(Passcode and waiting room settings are also optional), all of your future Classcipe can be scheduled with a Zoom meeting automatically once you switch the Zoom on.
 Then choose a time&date on the calendar and Click "Finish"
 
-![image](https://user-images.githubusercontent.com/1272280/188069751-e6ac85f2-8480-4697-80e3-9d88fe0fedf6.png)
 
 After launching a Session, you should be able to find it on the class page, where you will also see the Zoom icon under the title
 
