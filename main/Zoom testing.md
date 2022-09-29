@@ -28,7 +28,6 @@ Click the Zoom icon, It will direct you to launch the zoom meeting. As the parti
 
 ![image](https://user-images.githubusercontent.com/1272280/188069841-162737b2-62d0-440a-b12e-db67b23e01ea.png)
 
-![image](https://user-images.githubusercontent.com/1272280/188069861-b7052d6f-6925-4a11-a546-f69b58e0d41b.png)
 
 Share the link or code with your students so that they can join the session, or students will find the “enter the session” button on their student portal. As they join, they will be added to your Zoom waiting room, and you will need to approve them before they join the Zoom.
 
