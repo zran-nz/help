@@ -14,6 +14,8 @@ For first time user, please Click "Link your Zoom account to schedule a Zoom mee
 <img width="1403" alt="image" src="https://user-images.githubusercontent.com/105265752/192909824-e1e1cdcd-e979-4eb4-b66b-f395170706c5.png">
 
 Choose the Google account to authorize Zoom.
+<img width="1424" alt="image" src="https://user-images.githubusercontent.com/105265752/192947341-ce108223-4afa-46d1-ade7-c63779e13bf6.png">
+
 After successfully authorized Zoom,(Passcode and waiting room settings are also optional), all of your future Classcipe can be scheduled with a Zoom meeting automatically once you switch the Zoom on.
 Then choose a time&date on the calendar and Click "Finish"
 
