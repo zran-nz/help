@@ -1,5 +1,5 @@
 
 * [Guide](main/guide.md)
 
-* [policy](main/policy.md ':include')
-* [terms](main/terms.md ':include')
+* [Policy](main/policy.md ':include')
+* [Terms](main/terms.md ':include')
