@@ -62,17 +62,47 @@ Check the video here https://drive.google.com/file/d/10mCPQGrxOqgcCBYu-q_kwWhVOf
 If you are the teacher who wants to collaborate with others, simply click the 
 
 # Teaching with interactive slides
+
+## How to create a google slide in my PD content? 
+On the step of Edit Slide, click Create/Edit google slide, this will direct you to the Google slide page where you can find Classcipe add-on under the add-on menu. If you haven’t installed it yet, you will need to go to “get add-on” page, type in Classcipe and search. Click install, grand permission and wait for it to successfully installed in your web browser. Now go to the add-ons list and open the Classcipe add-on. Wait for the side-bar to open. Here, you can insert interactive questions to your slides or choose templates from our Classcipe template pool to add to your slides. After you finish editing, don’t forget the most important step, which is click “save and go to classcipe”, so that all the changes you have made will be syncronized to your Classcipe page, where you can later on schedule workshops with the latest slides.
+Check out the video here https://drive.google.com/file/d/1xp8XPTdHvDPKf13wcOHWGgI8a0Y0Tzz6/view?usp=sharing
+
 ## How to add slides from Classcipe template pool?
 Classcipe template pool allows teachers to easily add pre-made activities into a Classcipe task. Currently we offer 200+ pre-made activities to use for any K-12 subject or customize as needed. On the step of Edit Google Slides, you will see the template pool entrance on the right, where you can filter the template by subjects, learning purposes, 21st century skills, teaching strategies or differentiate instructions. Simply click insert, you will see the template being added to the selected resources on the left. There, you can delete the selected ones or add more. All the templates added will show up on the add-on bar when you create the PPT in Google slides.
+
 ## How to schedule a session using a task?
 For any task linked with a google slides, you can schedule it as a session. Simply click schedule on my content list and choose your class, select the students. Here you will need to authorize your zoom account on your first time using Classcipe, then the zoom meeting will be automatically generated with the scheduled session in your future use. Then pick a time and date, your session will appear on the class page after completing.
+
 ## How to create interactive content in Google Slides?
 You can either click edit Google slides from the task page or simply open any content in Google slides, Click add-on on the menu bar, find the Classcipe add-on, you will need to install the add-on from google add-on market if it is your first time using Classcipe add-on. After installing and click Classcipe add-on, the Classcipe Interactive Bar will appear on the right, where you can add interactive questions, set learning objectives for each question, insert the pre-selected templates and content, or check the template pool, library, or my content to insert new slides.
+
+## What interactive questions can I add to my slides?
+Classcipe provides 6 different types of interactive questions. They are text, multiple choices, multimedia, comments , drawing and website.
+When you add text answer to the slide, audiences will be prompted to insert text as their answers.
+If you add multiple choice to your slide, you can set correct answer as single or multiple choices. And audiences will be prompted to choose from your given answers.
+For multimedia type, audiences can record audio or video response, or simply upload from their computer.
+For comment type, audiences can choose between text, voice, or video comment to quickly add to any spot of the slide.
+For the drawing type of question, audiences can perform freehand drawings anywhere on the document. It lets you choose shape, stroke thickness, eraser and color. Or add text to it.
+For the website function, you can insert a website link for audience to click and be redirected to another site for references or their respondings.
+Check out the video here https://drive.google.com/file/d/1T2fNCWBYnEECT4FVPuJX9LH_Tw-nYVJC/view?usp=sharing
+
 ## How to start/enter a session?
 On the class page, you will find all the sessions you scheduled for each class categorized by the status of scheduled, on-going and ended. On each list, you can click teacher-pace or student-pace on the cover image to start or enter the session as a teacher. Teacher-pace option allows you to control the pace of students' learning whereas the student-pace option will grand all students with permission to move between different slides.
-## How to add material in the session?
+
+## How to authorize Classcipe with your Zoom account?
+There are 2 ways to authorize.
+The traditional way will be visiting your personal account setting page, where you will find the login and security settings. Here, you can click connect, then your Classcipe account will be connected with your Zoom account.
+If you don’t want to use the authorized Zoom account anymore, simply click disconnect.
+The second way is to launch a workshop or a session. On the scheduling page, you will see the bottom: Link your Zoom account to schedule a zoom meetings. Clicking it will open the authorization window, Choose your Zoom account then give Classcipe permissions to use your Zoom account to launch meetings.
+Check out the video here https://drive.google.com/file/d/13kK5mjc7vxQTZe53gsOQsDabtw_MpRIE/view?usp=sharing
+
+## What can I do if I want to run a workshop longer than 40 minutes with a premium Zoom account?
+If your Classcipe workshop is designed for longer than 40 mins, you can always schedule multiple workshops with the same PD content. Simply find the content on your list. Click workshop, give it a name that you would recognize as the first part of your workshop. Such as “1st part of Classcipe orientation on 13 Oct”. Choose your date and time. Your Zoom session now has been automatically scheduled. Then, visit the content again and click workshop, here put ““2nd part of Classcipe orientation on 13 Oct” to indicate that this is the workshop following the first one. Then chose the time 40 mins later than the first one. Click assign, now you will have 2 workshops created on the topic of Classcipe orientation and each of them has a 40-min Zoom meeting scheduled along with. So that your participants can register for all of them and switch to the second meeting when the first one finishes.
+Check out the video here https://drive.google.com/file/d/16vcmeFFuhfN1RYnfVZ0H75Lm_7Dr_7N0/view?usp=sharing
+
 ## How to provide instant feedback to students?
 Within any session, when a student responds to the interactive question, the teacher will see the responses instantly and simply enter the feedback and send, the student will see the instant feedback or comment from their side.
+
 ## How can students join the session?
 As a student, you will receive the link or the code of the session from your teacher. You can either use the link or enter the code on the official page of Classcipe to join the session.
 While entering the session, student will see the prompt window asking them to join the zoom meeting. If they drop off the meeting during the class, they can rejoin the meeting by clicking the zoom icon on the top.
