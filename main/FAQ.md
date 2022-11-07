@@ -110,6 +110,30 @@ While entering the session, student will see the prompt window asking them to jo
 Students can answer interactive questions in the session, including multiple choices, text, drawing and etc. The teacher will be able to see the instant response and leave real-time comments to the students.
 Check the video here https://drive.google.com/file/d/1MJM9nmX088jh7NMyrr6FlWZupdbwr5u_/view?usp=sharing 
 
+## How to add material while making my slides
+While making the interactive slides, different types of materials can be added onto the slides. You can choose image or video from your computer, google drive, select image from google image, insert a Youtube video and set a starting time for participants to watch or you might just want to record some audio as instruction or explanation to a certain slide. Once you add the material, the participants will see the number of the items added at the corner of their screen. Click the button, the materials will be displayed at the left side, where they can check out the image, the video or listen to the audio recording.
+
+## How to update my slides after launching a workshop? 
+If you have already launched a workshop but would like to make some changes to your workshop slides. Go to my content list and find the PD content, open Google slides to make the changes you need, dont forget that we always need to click "save and go to classcipe" in order to synchronize the changes. Save the PD content then open the workshop list and click the three dots at the corner of the workshop, choose "Update slides". The slides for your workshop will be updated accordingly.
+
+
+## How can I join a registered workshop?
+In order to join a registered workshop, first you need to log into Classcipe, go to live workshops page, under the schedule list, find the registered workshop that you would like to join. Click "enter workshop", you will be directed to the live workshop. Here, you can open the zoom meeting then interact with the facilitator by answering different types of questions. 
+
+## How can I interact with the facilitator?
+While in the workshop, you will see different types of interactive questions appear on the slides. For text or multiple choice question, simply enter the text or make your choice as response. For drawing type of question, you can draw anywhere with different color or size. For comment type of questions, you can leave your text comment at any spot of slide by first marking the spot, then enter your text message. Once you finish responding, the answers will be synchronized to the facilitator at the real time.
+
+## How to manage my participants?
+In your workshop, your can check the roster anytime, where all the names and emails are listed in real time. You might block any participant, such as the one who joined the wrong session, or for some reasons, they are not supposed to be in this workshop. If you need issue the ones who complete the workshop certificates, this list is the best place to start with.
+
+## How to co-teach?
+If you would like to have some one help you edit the content, you can invite a teacher here. or if you want to invite a teacher to co-teacher a session, a workshop. the teacher who receives your link, simply, click...
+
+## How to share links from your workshop？
+If you already start the session or you would like to give someone a free entry. you can find the session link inside your session. copy the link and share with others, they will join the session by clicking the link.
+
+
+
 
 # Publishing teaching resources
 ## Why I can not publish my content?
@@ -164,6 +188,9 @@ Only after setting the years/grades for your selected curriculums, you will be a
 
 ## Classcipe + Zoom Integration
 Check the video here https://drive.google.com/file/d/1JiDnQXgHp1NQHroD2ALs5c-4pSEcMR3-/view?usp=sharing 
+
+## How to feedback to Classcipe?
+While using Classcipe platform, you might encounter some issues. In order to make Classcipe more convenient and valuable to global educators, we always look forward to hearing your feedbacks. Simply use the feedback button from the corner of the right side, click to generate current screenshot, you can eaily mark the areas where you would like to comment on. Click "tick" then the screenshot will be saved with your marks as evidence, you might add some text comment to further explain the issue. before submitting, please choose your feedback category. it might be function problem, we also welcome any suggestion on improving Classcipe service, or you might encounter some errors within the content, or you need assisstance from our team. Thanks for your support to Classcipe.
 
 # Managing your school
 
