@@ -58,9 +58,6 @@ When someone invited you to collaborate, you will receive the notification on th
 Check the video here https://drive.google.com/file/d/10mCPQGrxOqgcCBYu-q_kwWhVOfNEiem_/view?usp=sharing
 
 
-## How do I invite others to collaborate?
-If you are the teacher who wants to collaborate with others, simply click the 
-
 # Teaching with interactive slides
 
 ## How to create a google slide in my PD content? 
@@ -120,16 +117,17 @@ Check the video here https://drive.google.com/file/d/1r4tDKaQD2uYaIVVklyHS1FUfAK
 
 
 ## How can I join a registered workshop?
-In order to join a registered workshop, first you need to log into Classcipe, go to live workshops page, under the schedule list, find the registered workshop that you would like to join. Click "enter workshop", you will be directed to the live workshop. Here, you can open the zoom meeting then interact with the facilitator by answering different types of questions. 
+In order to join a registered workshop, first you need to log into Classcipe, go to live workshops page, if your registered workshop is under the schedule list, it means that it has not started yet, you will need to wait until the facilitator start the session. If it is under the on-going list, simply Click "enter workshop", you will be taken to the live workshop where the "join the zoom meeting" allows you to open the zoom on your desktop then interact with the facilitator by answering different types of questions. 
 
 ## How can I interact with the facilitator?
-While in the workshop, you will see different types of interactive questions appear on the slides. For text or multiple choice question, simply enter the text or make your choice as response. For drawing type of question, you can draw anywhere with different color or size. For comment type of questions, you can leave your text comment at any spot of slide by first marking the spot, then enter your text message. Once you finish responding, the answers will be synchronized to the facilitator at the real time.
+While in the workshop, you will see different types of interactive questions appear on the slides. For multiple choice question, select the choice as response, For drawing type of question, you can draw anywhere with different pen color or size. For multimedia question, you might upload a file from your local desktop; For comment type of questions, you can leave your text comment at any area of the slide by marking the spot first, then enter your text message. for text type of question, simply type in your answer. Now matter what kind of question it is, once you finish responding, the answers will be synchronized to the facilitator at the real time, and you can check out their simultaneous feedback by click the icon at the bottom right corner.
 
 ## How to manage my participants?
-In your workshop, your can check the roster anytime, where all the names and emails are listed in real time. You might block any participant, such as the one who joined the wrong session, or for some reasons, they are not supposed to be in this workshop. If you need issue the ones who complete the workshop certificates, this list is the best place to start with.
+In your workshop, your can check your roster anytime, where all the names and emails are listed in real time. You might block any participant, such as the one who joined the wrong session, or for some reasons, they are not supposed to be in this workshop. If you need issue the ones who complete the workshop certificates, this list is the best place to start with.
 
 ## How to co-teach?
-If you would like to have some one help you edit the content, you can invite a teacher here. or if you want to invite a teacher to co-teacher a session, a workshop. the teacher who receives your link, simply, click...
+If you would like to have some one help you edit the content, you can invite a collaborator by click the icon on the right top corner. Type in his or her email address here, you have option to leave a message or not. If the person is already a Classcipe user, they will receive a message inviting them to collaborate with you, click the message, they will be able to open the same content as you and start co-editing with you. Of course, you can give the collaborator editing or viewing permission, or simply remove them.
+If you would like to invite someone to co-teach a workshop with you, in the session interface, click the roster button on the top right corner, then select the teacher list, here you will see the "invite co-teacher" option, click to copy the link, then whoever receive this link can simply paste it at their address bar and open the same session as you, now, they are the co-teachers of your workshop who enjoy all the functions as you.
 
 ## How to share links from your workshop？
 If you already start the session or you would like to give someone a free entry. you can find the session link inside your session. copy the link and share with others, they will join the session by clicking the link.
