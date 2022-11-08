@@ -112,9 +112,11 @@ Check the video here https://drive.google.com/file/d/1MJM9nmX088jh7NMyrr6FlWZupd
 
 ## How to add material while making my slides
 While making the interactive slides, different types of materials can be added onto the slides. You can choose image or video from your computer, google drive, select image from google image, insert a Youtube video and set a starting time for participants to watch or you might just want to record some audio as instruction or explanation to a certain slide. Once you add the material, the participants will see the number of the items added at the corner of their screen. Click the button, the materials will be displayed at the left side, where they can check out the image, the video or listen to the audio recording.
+Check the video here https://drive.google.com/file/d/1bEBOJcrROaBVeDGBGjNKXusrn69wgWUz/view?usp=share_link
 
 ## How to update my slides after launching a workshop? 
 If you have already launched a workshop but would like to make some changes to your workshop slides. Go to my content list and find the PD content, open Google slides to make the changes you need, dont forget that we always need to click "save and go to classcipe" in order to synchronize the changes. Save the PD content then open the workshop list and click the three dots at the corner of the workshop, choose "Update slides". The slides for your workshop will be updated accordingly.
+Check the video here https://drive.google.com/file/d/1r4tDKaQD2uYaIVVklyHS1FUfAK4jfnsZ/view?usp=share_link
 
 
 ## How can I join a registered workshop?
@@ -191,6 +193,7 @@ Check the video here https://drive.google.com/file/d/1JiDnQXgHp1NQHroD2ALs5c-4pS
 
 ## How to feedback to Classcipe?
 While using Classcipe platform, you might encounter some issues. In order to make Classcipe more convenient and valuable to global educators, we always look forward to hearing your feedbacks. Simply use the feedback button from the corner of the right side, click to generate current screenshot, you can eaily mark the areas where you would like to comment on. Click "tick" then the screenshot will be saved with your marks as evidence, you might add some text comment to further explain the issue. before submitting, please choose your feedback category. it might be function problem, we also welcome any suggestion on improving Classcipe service, or you might encounter some errors within the content, or you need assisstance from our team. Thanks for your support to Classcipe.
+Check the video here https://drive.google.com/file/d/1l1BT_El8zhcCJqR1gd6iVXrwkiyerARH/view?usp=share_link
 
 # Managing your school
 
