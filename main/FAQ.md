@@ -151,10 +151,6 @@ Under the published page, you will find all the content that you have published,
 
 # Launching workshops
 ## How to launch a workshop/session from scratch?
-Reigster
-Create pd or task
-Schedule(personal account:all can see and register, school account, only school teacher could register)
-PD registration
 
 To launch a workshop, teacher will need to create PD content first. By filling in the required fields and creating Google slides for their professional development content, now it’s ready to be scheduled as a workshop. Click the button on the content list, you will be redirected to workshop scheduling page, where teachers can choose to launch free or paid workshop. Maxim participants number, date and time are basic setting for all workshops, whereas paid workshop option allows you to set a price and discount details.
 You will be asked to authorize your zoom account at the first time then a zoom meeting will be automatically created together with your scheduled workshop for the future use.
