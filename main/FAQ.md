@@ -60,6 +60,12 @@ Check the video here https://drive.google.com/file/d/10mCPQGrxOqgcCBYu-q_kwWhVOf
 
 # Teaching with interactive slides
 
+## Why I can not run Classcipe add-on?
+On your google slide page, sometimes you can not run the Classscipe add-on, the side bar shows that the authorization failed. First, please make sure you are using Google Chrome as your web browser, currently Classcipe runs the best on Chrome browser. If the problem still occurs, then the possible cause is that your Chrome brower has saved more than one Gmail accounts, and the account you used to sign in with Classcipe platform is somehow different from the one that you are using to log into the add-on now. Here is how you can fix it. Go to Classcipe platform, check which Gmail you are currently using as your account ID, then come back to the google slides, click your profile image at the right top corner, find that Gmail and switch, then open the add-on again, it should run successfully this time. 
+Check the video here https://drive.google.com/file/d/1cp5dc3dN_6TLRYhZSGS7avlrAnz-aNTt/view?usp=share_link
+
+
+
 ## How to create a google slide in my PD content? 
 On the step of Edit Slide, click Create/Edit google slide, this will direct you to the Google slide page where you can find Classcipe add-on under the add-on menu. If you haven’t installed it yet, you will need to go to “get add-on” page, type in Classcipe and search. Click install, grand permission and wait for it to successfully installed in your web browser. Now go to the add-ons list and open the Classcipe add-on. Wait for the side-bar to open. Here, you can insert interactive questions to your slides or choose templates from our Classcipe template pool to add to your slides. After you finish editing, don’t forget the most important step, which is click “save and go to classcipe”, so that all the changes you have made will be syncronized to your Classcipe page, where you can later on schedule workshops with the latest slides.
 Check out the video here https://drive.google.com/file/d/1xp8XPTdHvDPKf13wcOHWGgI8a0Y0Tzz6/view?usp=sharing
