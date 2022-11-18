@@ -64,7 +64,9 @@ Check the video here https://drive.google.com/file/d/10mCPQGrxOqgcCBYu-q_kwWhVOf
 On your google slide page, sometimes you can not run the Classscipe add-on, the side bar shows that the authorization failed. First, please make sure you are using Google Chrome as your web browser, currently Classcipe runs the best on Chrome browser. If the problem still occurs, then the possible cause is that your Chrome brower has saved more than one google accounts, and the account you used to sign in with Classcipe platform is somehow different from the one that you are using to log into the add-on now. Here is how you can fix it. click your profile image at the right top corner of your google slide page, check under which google account this slides has been saved, then click your Chrome account profile, switch to the google account which the current slide belongs to, this might take you to a new window, there, log into Classcipe platform again and go to google slides from one of your PD content or task,the add-on should run successfully on your side bar this time. 
 Check the video here https://drive.google.com/file/d/1LYzBNrUApjDQvBwrmKukh8T70rTwLSNJ/view?usp=share_link
 
-
+## How to insert existing slides from my google drive to Classcipe content?
+If you already have some slides in your google drive, and would like to insert them into a Classcipe task or PD content, whether its a new content, an existing content or maybe a content that shared by others. You can follow the same procedure. First open the task or PD content and go to the google slides page of this content, click "File" from the menu bar and choose "Import slides", find the file from your google drive and click select, here you might choose all slides or some slides to import. wola, you already have your existing slides inserted into your Classcipe content, now you can run Classcipe add-on and feel free to add interactive question to any slide. Before you finish, dont forget the last and most important step, click "save and go to Classcipe" so that all the slides and questions will be synchronized to your Classcipe portal where you can later on schedule as session or workshop for your participants.
+check the video here https://drive.google.com/file/d/1t6I-SND4Dq88ilRQxWViVz3es9cQYQ6e/view?usp=share_link
 
 ## How to create a google slide in my PD content? 
 On the step of Edit Slide, click Create/Edit google slide, this will direct you to the Google slide page where you can find Classcipe add-on under the add-on menu. If you haven’t installed it yet, you will need to go to “get add-on” page, type in Classcipe and search. Click install, grand permission and wait for it to successfully installed in your web browser. Now go to the add-ons list and open the Classcipe add-on. Wait for the side-bar to open. Here, you can insert interactive questions to your slides or choose templates from our Classcipe template pool to add to your slides. After you finish editing, don’t forget the most important step, which is click “save and go to classcipe”, so that all the changes you have made will be syncronized to your Classcipe page, where you can later on schedule workshops with the latest slides.
@@ -136,11 +138,10 @@ In your workshop, your can click the "Roster" botton to check your participants,
 Check out the video here https://drive.google.com/file/d/1XJwmArxjKUPKefH3f8-UM4tZgX3aDWAi/view?usp=share_link
 
 
-## How to co-teach?
+## How to co-design & co-teach?
 If you would like to have some one help you edit the content, you can invite a collaborator by clicking the icon on the right top corner. Type in his or her email address here, you have option to leave a message or not. If the person is already a Classcipe user, they will receive a message inviting them to collaborate with you, click the message, they will be able to open the same content as you and start co-editing with you. Of course, you can give the collaborator editing or viewing permission, or simply remove them.
 If you would like to invite someone to co-teach a workshop with you, in the session interface, click the roster button on the top right corner, then select the teacher list, here you will see the "invite co-teacher" option, click to copy the link, then whoever receives this link can simply paste it at their address bar and open the same session as you, now, they are the co-teachers of your workshop who enjoy all the functions same as you.
-Check the video here https://drive.google.com/file/d/1iShfmZwCM4q_PV8Ixu9XsTUVqF7mxhpz/view?usp=share_link
-
+Check the video here https://drive.google.com/file/d/1x65U-KGWiLHXnaEYjRhlANaH5tdTlebc/view?usp=share_link
 ## How to share links from your workshop？
 If you already start the session or you would like to give someone a free entry. you can find the session link inside your session. copy the link and share with others, they will join the session by clicking the link.
 
